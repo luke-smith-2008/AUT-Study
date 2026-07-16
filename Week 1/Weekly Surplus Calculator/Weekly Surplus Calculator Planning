@@ -1,0 +1,19 @@
+prints the name
+
+asks for input of total weekly ammount of money earnt per week
+
+then stores that as a 'double' (8 bytes allocation in ram called "total")
+
+asks for rent cost per week
+
+then stores as a 'double' (called "rent")
+
+then aks for food costs per week
+
+then stores as a 'double' (called "food")
+
+then asks for additional costs per week
+
+then stores as a 'double' (called "additional")
+
+then calculates surplus. ("surplus" being stored as a 'double') per week using formula ("total" - "rent" - "food" - "additional" = "surplus")
